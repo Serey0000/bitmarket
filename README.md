@@ -55,6 +55,7 @@
         <footer>
             <div class="contacts">
                 <p class="footer-text"><span class="address">Адрес:</span> город Технологический,<br/> пр-д Современный, 29/2</p>
+                <p class="footer-text"><span class="tel">Телефон:</span> 4138-564</p>
             </div>
             <div class="footer-logo">
                 <img src="https://backoffice.algoritmika.org/uploads/2021/03/logo2_0_1615898903.svg"/>
